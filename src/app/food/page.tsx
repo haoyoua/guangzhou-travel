@@ -14,7 +14,7 @@ const foods = [
     price: '80-150',
     cuisine: '粤菜',
     hours: '07:00-22:00',
-    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80',
+    image: 'https://pic.chinanews.com.cn/chn/2025/0919/3833874.jpg',
     featured: ['虾饺', '烧麦', '叉烧包', '文昌鸡']
   },
   {
@@ -26,7 +26,7 @@ const foods = [
     price: '70-120',
     cuisine: '早茶',
     hours: '08:00-21:00',
-    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80',
+    image: 'https://pic.chinanews.com.cn/chn/2025/0919/3833874.jpg',
     featured: ['陶陶居招牌月饼', '鲜虾饺', 'XO酱萝卜糕']
   },
   {
@@ -38,7 +38,7 @@ const foods = [
     price: '60-100',
     cuisine: '早茶',
     hours: '07:00-23:00',
-    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80',
+    image: 'https://pic.chinanews.com.cn/chn/2025/0919/3833874.jpg',
     featured: ['金沙红米肠', '日式青芥末虾', '松化鸡蛋散']
   },
   {
@@ -50,7 +50,7 @@ const foods = [
     price: '150-300',
     cuisine: '粤菜',
     hours: '11:00-14:30, 17:00-22:00',
-    image: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80',
+    image: 'https://pic.nfapp.southcn.com/nfplus/ossfs/pic/20231021/20231021120807_8471.jpg',
     featured: ['秘制黑叉烧', '捞起鱼生', '脆皮叉烧']
   },
   {
@@ -62,7 +62,7 @@ const foods = [
     price: '80-150',
     cuisine: '粤菜',
     hours: '11:00-14:00, 17:00-21:30',
-    image: 'https://images.unsplash.com/photo-1517244683847-7456b63c5969?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic2/43342/20241122172722-1777713117.jpg',
     featured: ['黄鳝啫煲', '生啫牛肉', '啫菜心']
   },
   {
@@ -74,7 +74,7 @@ const foods = [
     price: '50-100',
     cuisine: '小吃',
     hours: '07:00-22:00',
-    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80',
+    image: 'https://pic.chinanews.com.cn/chn/2025/0919/3833874.jpg',
     featured: ['莲蓉月饼', '鸡仔饼', '嫁女饼']
   },
   {
@@ -86,7 +86,7 @@ const foods = [
     price: '15-40',
     cuisine: '甜品',
     hours: '11:00-23:00',
-    image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/37273/20220929171207-2126434176.jpg',
     featured: ['双皮奶', '姜汁撞奶', '凤凰奶糊']
   },
   {
@@ -98,7 +98,7 @@ const foods = [
     price: '15-35',
     cuisine: '小吃',
     hours: '07:00-22:00',
-    image: 'https://images.unsplash.com/photo-1517244683847-7456b63c5969?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic2/43342/20241122172722-1777713117.jpg',
     featured: ['牛肉肠', '鲜虾肠', '叉烧肠']
   }
 ]
