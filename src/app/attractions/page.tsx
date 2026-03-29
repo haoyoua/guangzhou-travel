@@ -14,7 +14,7 @@ const attractions = [
     rating: 4.8,
     price: '150',
     duration: '2-3小时',
-    image: 'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1551244026-bc622a711638?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80',
     category: '观光',
     tips: ['建议傍晚登塔，可看日落和夜景', '周末需提前预约', '摩天轮需额外购票'],
     transport: '地铁3号线广州塔站A出口'
@@ -27,7 +27,7 @@ const attractions = [
     rating: 4.6,
     price: '5',
     duration: '3-5小时',
-    image: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/42711/20250828211236-1291219273.jpg',
     category: '自然',
     tips: ['建议从南门进入，景点更集中', '春季杜鹃花开时最美', '山上有多个观景台'],
     transport: '地铁2号线白云文化广场站转公交'
@@ -40,7 +40,7 @@ const attractions = [
     rating: 4.7,
     price: '10',
     duration: '1-2小时',
-    image: 'https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic2/39502/20250925191746-1866277813.jpg',
     category: '文化',
     tips: ['建议请讲解员了解历史', '周一闭馆', '周边有荔枝湾涌可顺便游览'],
     transport: '地铁1号线陈家祠站D出口'
@@ -53,7 +53,7 @@ const attractions = [
     rating: 4.6,
     price: '免费',
     duration: '2-3小时',
-    image: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/24881/20230420223242-1462794442.jpg',
     category: '文化',
     tips: ['适合拍照打卡', '建议早上或傍晚时分游览', '周边有粤海关博物馆'],
     transport: '地铁1号线黄沙站E出口'
