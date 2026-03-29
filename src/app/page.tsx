@@ -10,7 +10,7 @@ const featuredAttractions = [
     id: 1,
     name: '广州塔',
     description: '中国第三高塔，广州地标建筑，昵称"小蛮腰"，塔身总高度454米，夜景璀璨夺目',
-    image: 'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1551244026-bc622a711638?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80',
     rating: 4.8,
     price: '150',
     tag: '地标'
@@ -19,7 +19,7 @@ const featuredAttractions = [
     id: 2,
     name: '陈家祠',
     description: '岭南建筑艺术瑰宝，广东现存规模最大，保存最完整的清代宗祠建筑群',
-    image: 'https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic2/39502/20250925191746-1866277813.jpg',
     rating: 4.7,
     price: '10',
     tag: '历史'
@@ -28,7 +28,7 @@ const featuredAttractions = [
     id: 3,
     name: '白云山',
     description: '南粤名山之一，"羊城第一秀"，主峰摩星岭海拔382米',
-    image: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/42711/20250828211236-1291219273.jpg',
     rating: 4.6,
     price: '5',
     tag: '自然'
@@ -37,7 +37,7 @@ const featuredAttractions = [
     id: 4,
     name: '沙面岛',
     description: '广州最具异国情调的欧洲建筑群，原英法租界',
-    image: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/24881/20230420223242-1462794442.jpg',
     rating: 4.6,
     price: '免费',
     tag: '文化'
@@ -50,7 +50,7 @@ const featuredFoods = [
     id: 1,
     name: '广式早茶',
     description: '粤式茶点代表，虾饺、烧麦、叉烧包、蛋挞等',
-    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80',
+    image: 'https://pic.chinanews.com.cn/chn/2025/0919/3833874.jpg',
     rating: 4.9,
     price: '60-100'
   },
@@ -58,7 +58,7 @@ const featuredFoods = [
     id: 2,
     name: '白切鸡',
     description: '粤菜经典，皮爽肉滑，保持原汁原味',
-    image: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80',
+    image: 'https://pic.nfapp.southcn.com/nfplus/ossfs/pic/20231021/20231021120807_8471.jpg',
     rating: 4.7,
     price: '40-80'
   },
@@ -66,7 +66,7 @@ const featuredFoods = [
     id: 3,
     name: '煲仔饭',
     description: '砂锅焖制米饭，腊味飘香，锅底焦香酥脆',
-    image: 'https://images.unsplash.com/photo-1517244683847-7456b63c5969?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic2/43342/20241122172722-1777713117.jpg',
     rating: 4.6,
     price: '35-60'
   },
@@ -74,7 +74,7 @@ const featuredFoods = [
     id: 4,
     name: '双皮奶',
     description: '顺德大良传统甜品，奶香浓郁，入口即化',
-    image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80',
+    image: 'https://pic.baike.soso.com/ugc/baikepic/37273/20220929171207-2126434176.jpg',
     rating: 4.8,
     price: '15-30'
   }
