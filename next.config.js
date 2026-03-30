@@ -1,7 +1,14 @@
 /** @type {import('next').NextConfig} */
+const withPWA = require('next-pwa')({
+  dest: 'public',
+  register: true,
+  skipWaiting: true,
+  disable: process.env.NODE_ENV === 'development'
+})
+
 const nextConfig = {
   images: {
-    domains: ['images.unsplash.com', 'upload.wikimedia.org', 'cdn.pixabay.com'],
+    domains: ['images.unsplash.com', 'upload.wikimedia.org', 'cdn.pixabay.com', 'pic.baike.soso.com', 'pic.chinanews.com.cn', 'pic.nfapp.southcn.com'],
     unoptimized: true,
   },
   typescript: {
@@ -12,4 +19,4 @@ const nextConfig = {
   },
 }
 
-module.exports = nextConfig
+module.exports = withPWA(nextConfig)
