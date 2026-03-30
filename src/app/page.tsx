@@ -2,7 +2,10 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import dynamic from 'next/dynamic'
 import { MapPin, Star, ChevronRight, ArrowRight, Calendar, BookOpen } from 'lucide-react'
+
+const WeatherWidget = dynamic(() => import('../components/WeatherWidget'), { ssr: false })
 
 // 景点数据 - 使用确认有效的 Unsplash 图片
 const featuredAttractions = [
